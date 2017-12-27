@@ -87,7 +87,7 @@ background-size: cover;
 {
 	display:table; float:none; width:100%;background:black;/*position:fixed*/;border-bottom: 4px  solid black;text-align:  right;
 }
-nav{float:left;;margin:0; padding:20px;position: relative;left:25%;}
+nav{float:left;;margin:0 auto; padding:20px;position: relative;left:25%;}
 ul.menu2
 {
 	float:left;;margin:0; padding:0;
