@@ -146,11 +146,12 @@ li{list-style-type:circle;}
   body {
   
  }
+		A {margin:0 auto;}
  li.menu2
 {
 	float:none; list-style-type: none; background:white;margin:10px auto; padding:0;border: 1px  solid black;border-radius:20px;box-shadow: 0 0 20px grey;
 }
- 
+	a {margin:0 auto;}
 is_overlay{
   display:none;
 }
