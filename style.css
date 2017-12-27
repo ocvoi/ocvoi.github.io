@@ -148,7 +148,7 @@ li{list-style-type:circle;}
  }
  li.menu2
 {
-	float:none; list-style-type: none; background:white;margin:0; padding:0 20px;border: 1px  solid black;border-radius:20px;box-shadow: 0 0 20px grey;
+	float:none; list-style-type: none; background:white;margin:0 auto; padding:20px 0;border: 1px  solid black;border-radius:20px;box-shadow: 0 0 20px grey;
 }
  
 is_overlay{
