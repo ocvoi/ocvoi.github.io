@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://oc:88
+Sitemap: http://ocvoi.github.io
