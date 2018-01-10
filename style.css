@@ -146,6 +146,9 @@ li{list-style-type:circle;}
   body {
   
  }
+.block6{
+	float:left;width:100%;padding: 0%;/*background-image:url(fon2.jpg);*/
+}
  li.menu2
 {
 	display:block;width:100%;float:none; list-style-type: none; background:white; padding:0;border: 1px  solid black;border-radius:20px;box-shadow: 0 0 20px grey;text-align: center;
