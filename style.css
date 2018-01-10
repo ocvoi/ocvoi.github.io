@@ -147,11 +147,11 @@ li{list-style-type:circle;}
   
  }
 .block6{
-	float:left;width:100%;/*background-image:url(fon2.jpg);padding:0;*/
+	float:none;width:100%;/*background-image:url(fon2.jpg);padding:0;*/
 }
  li.menu2
 {
-	display:block;width:100%;float:left; list-style-type: none; background:white; padding:0;border: 1px  solid black;border-radius:20px;box-shadow: 0 0 20px grey;text-align: center;
+	display:block;width:100%;float:none; list-style-type: none; background:white; padding:0;border: 1px  solid black;border-radius:20px;box-shadow: 0 0 20px grey;text-align: center;
 }
 	
 is_overlay{
