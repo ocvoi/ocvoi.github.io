@@ -149,9 +149,13 @@ li{list-style-type:circle;}
 .block6{
 	float:left;width:100%;/*background-image:url(fon2.jpg);padding:0;*/
 }
+	ul.menu2
+	{
+		display:flex;flex-direction:column;
+	}
  li.menu2
 {
-	display:flex;flex-direction:column;width:100%;list-style-type: none; background:white; padding:0;border: 1px  solid black;border-radius:20px;box-shadow: 0 0 20px grey;text-align: center;
+	width:100%;list-style-type: none; background:white; padding:0;border: 1px  solid black;border-radius:20px;box-shadow: 0 0 20px grey;text-align: center;
 }
 	
 is_overlay{
