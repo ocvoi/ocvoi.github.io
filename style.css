@@ -90,7 +90,7 @@ background-size: cover;
 nav{float:left;;margin:0 auto; padding:20px;position: relative;left:25%;}
 ul.menu2
 {
-	float:left;;margin:0; padding:0;
+	display:flex;margin:0; padding:0;justify-content:center;
 }
 li.menu2
 {
