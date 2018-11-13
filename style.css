@@ -185,7 +185,7 @@ table {border-collapse: collapse;margin: 0 auto;/*opacity:0.5;*/}
 /* границы ячеек первого ряда таблицы */
 th {border: 1px solid black;width:auto;}
 /* границы ячеек тела таблицы */
-td {border:1px solid black;color:black;font-size:1.5em;width:auto;}
+td {border:1px solid black;color:black;font-size:1.5em;width:auto;padding-left:10px;padding-right:10px;}
 
 
 					
